@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @minchinweb
+/src/backend/database.py      @minchinweb
+/src/backend/routers/auth.py  @minchinweb
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @minchinweb
